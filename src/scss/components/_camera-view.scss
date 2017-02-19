@@ -1,0 +1,7 @@
+#camera-view {
+    width: 100%;
+    margin: $gutter-width * 2 0 $gutter-width * 2 0;
+
+    @include paper;
+
+}
