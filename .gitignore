@@ -51,3 +51,6 @@ jspm_packages
 # Production css and js
 dist/css
 dist/js
+
+# .idea files
+.idea
